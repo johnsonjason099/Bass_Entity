@@ -5,3 +5,6 @@ const allowedOrigins = [
 ]
 
 module.exports = allowedOrigins
+
+//use (npm start) to run server after client has been 
+//started by using (npm run dev)
